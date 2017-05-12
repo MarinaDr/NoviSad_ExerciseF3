@@ -219,3 +219,6 @@ RefactoringAction 1494615630375 TestPlanetExplorer.java RENAME test_moving_left_
 RefactoringAction 1494615635389 TestPlanetExplorer.java RENAME test_moving_left_when_exit()=>void test_moving_left_when_crossing() METHOD
 RefactoringAction 1494615638400 TestPlanetExplorer.java RENAME test_moving_left_when_crossing()=>void test_moving_left_when_crossing_over() METHOD
 EditAction 1494615653058 TestPlanetExplorer.java 3300 13 26 13
+UnitTestCaseAction 1494615663082 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615663083 TestPlanetExplorer.java OK
+EditAction 1494615719024 PlanetExplorer.java 1679 4 10 0

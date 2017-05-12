@@ -46,3 +46,7 @@
 1494615337913 test-addition 1 59 true
 1494615337914 test-addition 1 59 true
 1494615338545 regression 1 0 true
+1494615663083 test-last 1 285 false
+1494615663084 test-last 1 285 false
+1494615663085 test-last 1 285 false
+1494615663086 test-last 1 285 false
