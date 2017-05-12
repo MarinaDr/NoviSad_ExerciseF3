@@ -113,3 +113,8 @@ EditAction 1494614020768 TestPlanetExplorer.java 1984 10 10 10
 UnitTestCaseAction 1494614031277 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494614031278 TestPlanetExplorer.java OK
 EditAction 1494614057769 PlanetExplorer.java 960 2 8 0
+RefactoringAction 1494614072282 TestPlanetExplorer.java ADD void test_moving_left_when_south()/2 METHOD
+RefactoringAction 1494614074794 TestPlanetExplorer.java RENAME test_moving_left_when_south()/2=>void test_moving_left_when_s() METHOD
+RefactoringAction 1494614075808 TestPlanetExplorer.java RENAME test_moving_left_when_s()=>void test_moving_left_when_() METHOD
+RefactoringAction 1494614077318 TestPlanetExplorer.java RENAME test_moving_left_when_()=>void test_moving_left_when_west() METHOD
+EditAction 1494614088114 TestPlanetExplorer.java 2157 11 11 11
