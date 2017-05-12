@@ -82,3 +82,6 @@ UnitTestSessionAction 1494613688735 TestPlanetExplorer.java OK
 UnitTestCaseAction 1494613689051 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494613689053 TestPlanetExplorer.java OK
 EditAction 1494613705132 PlanetExplorer.java 764 2 7 0
+RefactoringAction 1494613722783 TestPlanetExplorer.java ADD void test_moving_right_when_south()/2 METHOD
+RefactoringAction 1494613727796 TestPlanetExplorer.java RENAME test_moving_right_when_south()/2=>void test_moving_right_when_west() METHOD
+EditAction 1494613733084 TestPlanetExplorer.java 1463 7 7 7
