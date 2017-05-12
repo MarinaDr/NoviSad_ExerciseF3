@@ -213,3 +213,9 @@ RefactoringAction 1494615510527 PlanetExplorer.java RENAME checkIfCorrectX(int)/
 RefactoringAction 1494615511537 PlanetExplorer.java RENAME checkIfCorrect(int)=>boolean checkIfCorrectY(int) METHOD
 EditAction 1494615517841 PlanetExplorer.java 1540 4 10 0
 EditAction 1494615606089 PlanetExplorer.java 1609 4 10 0
+RefactoringAction 1494615621850 TestPlanetExplorer.java ADD void test_moving_left_when_ffrf()/2 METHOD
+RefactoringAction 1494615627363 TestPlanetExplorer.java RENAME test_moving_left_when_ffrf()/2=>void test_moving_left_when() METHOD
+RefactoringAction 1494615630375 TestPlanetExplorer.java RENAME test_moving_left_when()=>void test_moving_left_when_exit() METHOD
+RefactoringAction 1494615635389 TestPlanetExplorer.java RENAME test_moving_left_when_exit()=>void test_moving_left_when_crossing() METHOD
+RefactoringAction 1494615638400 TestPlanetExplorer.java RENAME test_moving_left_when_crossing()=>void test_moving_left_when_crossing_over() METHOD
+EditAction 1494615653058 TestPlanetExplorer.java 3300 13 26 13

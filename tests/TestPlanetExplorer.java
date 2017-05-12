@@ -85,6 +85,12 @@ public void test_moving_left_when_west() throws PlanetExplorerException {
 		assertEquals("Incorrect position when moving forwoard", "(1,2,E)", plnt.executeCommand("ffrf"));
 	}
 
+	@Test
+	public void test_moving_left_when_crossing_over() throws PlanetExplorerException {
+		PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
+		
+		assertEquals("Incorrect position when moving forwoard", "(0,0,N)", plnt.executeCommand("fff"));
+	}
 	
 
 
