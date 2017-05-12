@@ -253,3 +253,6 @@ RefactoringAction 1494616158099 TestPlanetExplorer.java RENAME test_moving_when_
 RefactoringAction 1494616172126 TestPlanetExplorer.java RENAME test_moving_when_crossing_over_when_moving_backwoard_when_south()=>void test_moving_when_crossing_over_when_moving_backwoard_when_s() METHOD
 RefactoringAction 1494616175137 TestPlanetExplorer.java RENAME test_moving_when_crossing_over_when_moving_backwoard_when_s()=>void test_moving_when_crossing_over_when_moving_backwoard_when_north() METHOD
 EditAction 1494616181462 TestPlanetExplorer.java 3883 15 30 15
+UnitTestCaseAction 1494616210559 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616210560 TestPlanetExplorer.java FAIL
+EditAction 1494616227902 TestPlanetExplorer.java 3882 15 30 15
