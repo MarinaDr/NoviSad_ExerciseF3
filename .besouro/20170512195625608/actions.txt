@@ -124,3 +124,6 @@ EditAction 1494614134456 PlanetExplorer.java 980 2 8 0
 EditAction 1494614227442 PlanetExplorer.java 1063 2 8 0
 RefactoringAction 1494614243483 TestPlanetExplorer.java REMOVE plnt FIELD
 EditAction 1494614278213 TestPlanetExplorer.java 2720 11 22 11
+UnitTestCaseAction 1494614293881 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614293884 TestPlanetExplorer.java OK
+EditAction 1494614351965 TestPlanetExplorer.java 2790 11 22 11
