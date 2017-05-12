@@ -170,3 +170,12 @@ EditAction 1494615175278 TestPlanetExplorer.java 2800 11 22 11
 UnitTestCaseAction 1494615185541 TestPlanetExplorer.java FAIL
 UnitTestSessionAction 1494615185543 TestPlanetExplorer.java FAIL
 EditAction 1494615206040 TestPlanetExplorer.java 2800 11 22 11
+UnitTestCaseAction 1494615225733 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494615225735 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494615225746 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615225742 TestPlanetExplorer.java FAILUnitTestSessionAction 1494615225756 TestPlanetExplorer.java FAIL
+
+UnitTestSessionAction 1494615225758 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494615225788 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615225790 TestPlanetExplorer.java FAIL
+EditAction 1494615235786 TestPlanetExplorer.java 2800 11 22 11
