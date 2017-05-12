@@ -75,6 +75,7 @@ public class PlanetExplorer {
 			else {
 				facing="S";
 			}
+		} 
 		}
 		
 		return "("+x_Pos+","+y_Pos+","+facing+")";
