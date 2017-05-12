@@ -29,3 +29,5 @@ RefactoringAction 1494612743449 TestPlanetExplorer.java RENAME test=>void test_ 
 RefactoringAction 1494612746461 TestPlanetExplorer.java RENAME test_=>void test_Initialize FIELD
 RefactoringAction 1494612749479 TestPlanetExplorer.java RENAME test_Initialize=>void test_Initialize() METHOD
 EditAction 1494612884224 TestPlanetExplorer.java 402 1 2 1
+CompilationAction 1494612892405 TestPlanetExplorer.java
+EditAction 1494612910605 TestPlanetExplorer.java 406 1 2 1
