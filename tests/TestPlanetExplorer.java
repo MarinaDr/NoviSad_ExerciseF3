@@ -14,7 +14,7 @@ public class TestPlanetExplorer {
 	public void test_Initialize() throws PlanetExplorerException {
 		PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
 		
-		assertEquals("Incorrect position when initialize", "(0,0,N)", plnt.executeCommand(null));
+		assertEquals("Incorrect position when initialize", "(0,0,N)", plnt.executeCommand(""));
 	}
 	
 	@Test
