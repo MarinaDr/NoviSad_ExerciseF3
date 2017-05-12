@@ -94,3 +94,8 @@ RefactoringAction 1494613857453 TestPlanetExplorer.java RENAME test_moving_right
 RefactoringAction 1494613858463 TestPlanetExplorer.java RENAME test_moving_le_when_west()=>void test_moving_left_when_west() METHOD
 RefactoringAction 1494613862978 TestPlanetExplorer.java RENAME test_moving_left_when_west()=>void test_moving_left_when_north() METHOD
 EditAction 1494613868300 TestPlanetExplorer.java 1637 8 8 8
+UnitTestCaseAction 1494613883494 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613883497 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494613883818 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613883819 TestPlanetExplorer.java OK
+EditAction 1494613908901 PlanetExplorer.java 881 2 8 0
