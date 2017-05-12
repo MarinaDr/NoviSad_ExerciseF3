@@ -122,3 +122,5 @@ UnitTestCaseAction 1494614108978 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494614108980 TestPlanetExplorer.java OK
 EditAction 1494614134456 PlanetExplorer.java 980 2 8 0
 EditAction 1494614227442 PlanetExplorer.java 1063 2 8 0
+RefactoringAction 1494614243483 TestPlanetExplorer.java REMOVE plnt FIELD
+EditAction 1494614278213 TestPlanetExplorer.java 2720 11 22 11
