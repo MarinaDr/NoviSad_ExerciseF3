@@ -34,3 +34,8 @@ EditAction 1494612910605 TestPlanetExplorer.java 406 1 2 1
 UnitTestCaseAction 1494612927408 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494612927411 TestPlanetExplorer.java OK
 EditAction 1494613100804 PlanetExplorer.java 488 2 5 0
+RefactoringAction 1494613178324 TestPlanetExplorer.java ADD void test_moving FIELD
+RefactoringAction 1494613180332 TestPlanetExplorer.java RENAME test_moving=>void test_moving_ FIELD
+RefactoringAction 1494613183341 TestPlanetExplorer.java RENAME test_moving_=>void test_moving_forwoard FIELD
+RefactoringAction 1494613185349 TestPlanetExplorer.java RENAME test_moving_forwoard=>void test_moving_forwoard() METHOD
+EditAction 1494613234644 TestPlanetExplorer.java 635 2 4 2

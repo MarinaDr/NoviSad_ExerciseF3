@@ -15,8 +15,10 @@ public class PlanetExplorer {
 	
 	
 	public String executeCommand(String command){
-		char[] commands=command.toCharArray();
-		
+		/*char[] commands=command.toCharArray();*/
+		if (command=="f") {
+			y_Pos++;
+		}
 		
 		return "("+x_Pos+","+y_Pos+","+facing+")";
 	}

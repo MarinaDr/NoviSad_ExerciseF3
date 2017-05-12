@@ -15,4 +15,10 @@ public class TestPlanetExplorer {
 		
 		assertEquals("Incorrect position when initialize", "(0,0,N)", plnt.executeCommand(null));
 	}
+	
+	public void test_moving_forwoard() throws PlanetExplorerException {
+PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
+		
+		assertEquals("Incorrect position when moving forwoard", "(1,0,N)", plnt.executeCommand(null));
+	}
 }
