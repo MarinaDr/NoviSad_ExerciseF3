@@ -49,3 +49,6 @@ UnitTestCaseAction 1494613319716 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494613319718 TestPlanetExplorer.java OK
 RefactoringAction 1494613340655 TestPlanetExplorer.java ADD PlanetExplorer plnt FIELD
 EditAction 1494613348724 TestPlanetExplorer.java 758 3 3 3
+UnitTestCaseAction 1494613358432 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613358434 TestPlanetExplorer.java OK
+EditAction 1494613389433 PlanetExplorer.java 568 2 6 0

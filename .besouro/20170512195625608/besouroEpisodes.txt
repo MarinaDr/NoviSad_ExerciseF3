@@ -2,3 +2,6 @@
 1494613262066 test-last 1 161 false
 1494613319718 test-addition 1 50 true
 1494613319719 test-addition 1 50 true
+1494613358434 refactoring 1A 17 true
+1494613358435 refactoring 3 17 true
+1494613358436 refactoring 3 17 true

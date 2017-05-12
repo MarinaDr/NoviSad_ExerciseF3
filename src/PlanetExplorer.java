@@ -20,6 +20,10 @@ public class PlanetExplorer {
 			y_Pos++;
 		}
 		
+		if (command=="b") {
+			y_Pos--;
+		}
+		
 		return "("+x_Pos+","+y_Pos+","+facing+")";
 	}
 }
