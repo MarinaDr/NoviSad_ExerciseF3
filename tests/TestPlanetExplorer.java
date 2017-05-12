@@ -82,7 +82,7 @@ public void test_moving_left_when_west() throws PlanetExplorerException {
 	public void test_moving_left_when_ffrf() throws PlanetExplorerException {
 		PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
 		
-		assertEquals("Incorrect position when moving forwoard", "(0,0,S)", plnt.executeCommand("ll"));
+		assertEquals("Incorrect position when moving forwoard", "(1,2,E)", plnt.executeCommand("ffrf"));
 	}
 
 	
