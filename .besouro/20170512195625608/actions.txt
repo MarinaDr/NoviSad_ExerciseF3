@@ -70,3 +70,4 @@ RefactoringAction 1494613589028 TestPlanetExplorer.java RENAME test_moving_right
 RefactoringAction 1494613591544 TestPlanetExplorer.java RENAME test_moving_right_()=>void test_moving_right_when FIELD
 RefactoringAction 1494613595582 TestPlanetExplorer.java RENAME test_moving_right_when_easr()=>void test_moving_right_when_east() METHOD
 EditAction 1494613603872 PlanetExplorer.java 685 2 7 0
+EditAction 1494613611614 TestPlanetExplorer.java 1114 5 5 5

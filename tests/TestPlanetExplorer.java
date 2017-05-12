@@ -29,8 +29,8 @@ public class TestPlanetExplorer {
 		
 		assertEquals("Incorrect position when moving forwoard", "(0,0,E)", plnt.executeCommand("r"));
 	}
-public void test_moving_right() throws PlanetExplorerException {
+public void test_moving_right_when_east() throws PlanetExplorerException {
 		
-		assertEquals("Incorrect position when moving forwoard", "(0,0,E)", plnt.executeCommand("r"));
+		assertEquals("Incorrect position when moving forwoard", "(0,0,W)", plnt.executeCommand("r"));
 	}
 }
