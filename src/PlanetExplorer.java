@@ -1,7 +1,7 @@
 
 // Before you commit and push write your student ID and finish time here.
-// Finish time:
-// Student ID:
+// Finish time: 21:02
+// Student ID: IT12/2015
 
 public class PlanetExplorer {
 	private int x, y, x_Pos=0, y_Pos=0;
