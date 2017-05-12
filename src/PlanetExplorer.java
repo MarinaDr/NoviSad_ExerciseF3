@@ -66,16 +66,32 @@ public boolean checkIfCorrectY (int position) {
 		
 		if (cmd=='b') {
 			if (facing=="N") {
-			y_Pos--;
+				if (checkIfCorrectY(y_Pos-1)) {
+			y_Pos--; 
+				} else {
+					y_Pos=y-1;
+				}
 			}
 			else if (facing=="E") {
+				if (checkIfCorrectX(x_Pos-1)) {
 				x_Pos--;
+				} else {
+					x_Pos=x-1;
+				}
 			}
 			else if (facing=="S") {
+				if (checkIfCorrectY(y_Pos+1)) {
 				y_Pos++;
+				} else {
+					y_Pos=0;
+				}
 			}
 			else {
-				x_Pos++;
+				if (checkIfCorrectX(x_Pos+1)) {
+				x_Pos++; 
+				} else {
+					x_Pos=0';
+				}
 			}
 		}
 		if (cmd=='r') {
