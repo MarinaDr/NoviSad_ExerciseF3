@@ -40,3 +40,8 @@ RefactoringAction 1494613183341 TestPlanetExplorer.java RENAME test_moving_=>voi
 RefactoringAction 1494613185349 TestPlanetExplorer.java RENAME test_moving_forwoard=>void test_moving_forwoard() METHOD
 EditAction 1494613234644 TestPlanetExplorer.java 635 2 4 2
 EditAction 1494613252520 TestPlanetExplorer.java 634 2 4 2
+UnitTestCaseAction 1494613262064 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613262066 TestPlanetExplorer.java OK
+RefactoringAction 1494613269536 TestPlanetExplorer.java ADD void test_moving_forwoard()/2 METHOD
+RefactoringAction 1494613277557 TestPlanetExplorer.java RENAME test_moving_forwoard()/2=>void test_moving_backwoard() METHOD
+EditAction 1494613307186 TestPlanetExplorer.java 871 3 6 3
