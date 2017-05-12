@@ -41,7 +41,11 @@ public boolean checkIfCorrectY (int position) {
 			}
 		}
 			else if (facing=="E") {
+				if (checkIfCorrectX(x_Pos+1)) {
 				x_Pos++;
+				} else {
+					x_Pos=0;
+				}
 			}
 			else if (facing=="S") {
 				if (checkIfCorrectY(y_Pos-1)) { 
@@ -51,7 +55,11 @@ public boolean checkIfCorrectY (int position) {
 				}
 			}
 			else {
+				if (checkIfCorrectX(x_Pos-1)) {
 				x_Pos--;
+				} else {
+					x_Pos=x-1;
+				}
 			}
 			
 		}
