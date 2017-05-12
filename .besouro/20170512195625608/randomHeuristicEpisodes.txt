@@ -14,3 +14,6 @@
 1494614031278 test-last 1 55 false
 1494614108980 test-last 1 51 false
 1494614293884 refactoring 3 159 false
+1494615256086 refactoring 3 904 false
+1494615256135 regression 1 0 true
+1494615256481 regression 1 0 false

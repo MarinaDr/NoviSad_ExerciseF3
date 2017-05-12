@@ -179,3 +179,18 @@ UnitTestSessionAction 1494615225758 TestPlanetExplorer.java FAIL
 UnitTestCaseAction 1494615225788 TestPlanetExplorer.java FAIL
 UnitTestSessionAction 1494615225790 TestPlanetExplorer.java FAIL
 EditAction 1494615235786 TestPlanetExplorer.java 2800 11 22 11
+UnitTestCaseAction 1494615256054 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256056 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615256084 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256086 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615256130 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256135 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615256479 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256481 TestPlanetExplorer.java OK
+RefactoringAction 1494615277986 TestPlanetExplorer.java ADD void test_moving_left_when_west()/2 METHOD
+RefactoringAction 1494615281496 TestPlanetExplorer.java RENAME test_moving_left_when_west()/2=>void test_moving_left_when_() METHOD
+RefactoringAction 1494615284508 TestPlanetExplorer.java RENAME test_moving_left_when_()=>void test_moving_left_when_f() METHOD
+RefactoringAction 1494615290029 TestPlanetExplorer.java RENAME test_moving_left_when_f()=>void test_moving_left_when_ff() METHOD
+RefactoringAction 1494615291041 TestPlanetExplorer.java RENAME test_moving_left_when_ff()=>void test_moving_left_when_ffr() METHOD
+RefactoringAction 1494615294050 TestPlanetExplorer.java RENAME test_moving_left_when_ffr()=>void test_moving_left_when_ffrf() METHOD
+EditAction 1494615294873 TestPlanetExplorer.java 3046 12 24 12
