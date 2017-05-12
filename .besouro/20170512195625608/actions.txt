@@ -22,3 +22,10 @@ RefactoringAction 1494612531343 PlanetExplorer.java RENAME y/2=>int y_P FIELD
 RefactoringAction 1494612532354 PlanetExplorer.java RENAME y_P=>int y_Pos FIELD
 RefactoringAction 1494612562455 PlanetExplorer.java ADD String direction FIELD
 EditAction 1494612571550 PlanetExplorer.java 423 2 4 0
+RefactoringAction 1494612707447 PlanetExplorer.java RENAME direction=>String facing FIELD
+RefactoringAction 1494612727383 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1494612741938 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494612743449 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1494612746461 TestPlanetExplorer.java RENAME test_=>void test_Initialize FIELD
+RefactoringAction 1494612749479 TestPlanetExplorer.java RENAME test_Initialize=>void test_Initialize() METHOD
+EditAction 1494612884224 TestPlanetExplorer.java 402 1 2 1

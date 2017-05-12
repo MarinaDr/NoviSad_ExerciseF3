@@ -5,7 +5,7 @@
 
 public class PlanetExplorer {
 	private int x, y, x_Pos=0, y_Pos=0;
-	private String direction="N";
+	private String facing="N";
 	private String obstacles;
 	public PlanetExplorer(int x, int y, String obstacles){
 		this.x=x;
@@ -18,6 +18,6 @@ public class PlanetExplorer {
 		
 		
 		
-		return null;
+		return "("+x_Pos+","+y_Pos+","+facing+")";
 	}
 }
