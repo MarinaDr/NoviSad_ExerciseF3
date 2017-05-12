@@ -212,3 +212,4 @@ RefactoringAction 1494615508015 PlanetExplorer.java ADD boolean checkIfCorrectX(
 RefactoringAction 1494615510527 PlanetExplorer.java RENAME checkIfCorrectX(int)/2=>boolean checkIfCorrect(int) METHOD
 RefactoringAction 1494615511537 PlanetExplorer.java RENAME checkIfCorrect(int)=>boolean checkIfCorrectY(int) METHOD
 EditAction 1494615517841 PlanetExplorer.java 1540 4 10 0
+EditAction 1494615606089 PlanetExplorer.java 1609 4 10 0

@@ -33,7 +33,12 @@ public boolean checkIfCorrectY (int position) {
 			char cmd=commands[i];
 		if (cmd=='f') {
 			if (facing=="N") {
+			if (checkIfCorrectY(y_Pos+1)) {
 			y_Pos++;
+			} else 
+			{
+				y_Pos=0;
+			}
 			}
 			else if (facing=="E") {
 				x_Pos++;
