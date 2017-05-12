@@ -44,6 +44,8 @@ public class PlanetExplorer {
 			else if (facing=="E") {
 				facing="N";
 			}
+			else if (facing=="S") {
+			}
 		}
 		
 		return "("+x_Pos+","+y_Pos+","+facing+")";
