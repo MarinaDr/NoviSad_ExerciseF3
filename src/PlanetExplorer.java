@@ -37,6 +37,11 @@ public class PlanetExplorer {
 				facing="N";
 			}
 		}
+		if (command=="l") {
+			if (facing=="N") {
+				facing="W";
+			}
+		}
 		
 		return "("+x_Pos+","+y_Pos+","+facing+")";
 	}
