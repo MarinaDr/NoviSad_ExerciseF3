@@ -49,4 +49,8 @@ public void test_moving_left_when_east() throws PlanetExplorerException {
 	
 	assertEquals("Incorrect position when moving forwoard", "(0,0,N)", plnt.executeCommand("l"));
 }
+public void test_moving_left_when_south() throws PlanetExplorerException {
+	
+	assertEquals("Incorrect position when moving forwoard", "(0,0,E)", plnt.executeCommand("l"));
+}
 }
