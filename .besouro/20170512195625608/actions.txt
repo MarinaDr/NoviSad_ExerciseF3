@@ -118,3 +118,6 @@ RefactoringAction 1494614074794 TestPlanetExplorer.java RENAME test_moving_left_
 RefactoringAction 1494614075808 TestPlanetExplorer.java RENAME test_moving_left_when_s()=>void test_moving_left_when_() METHOD
 RefactoringAction 1494614077318 TestPlanetExplorer.java RENAME test_moving_left_when_()=>void test_moving_left_when_west() METHOD
 EditAction 1494614088114 TestPlanetExplorer.java 2157 11 11 11
+UnitTestCaseAction 1494614108978 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614108980 TestPlanetExplorer.java OK
+EditAction 1494614134456 PlanetExplorer.java 980 2 8 0
