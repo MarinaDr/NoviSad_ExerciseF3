@@ -90,7 +90,7 @@ public boolean checkIfCorrectY (int position) {
 				if (checkIfCorrectX(x_Pos+1)) {
 				x_Pos++; 
 				} else {
-					x_Pos=0';
+					x_Pos=0;
 				}
 			}
 		}
