@@ -14,7 +14,6 @@ public class PlanetExplorer {
 	}
 	
 public boolean checkIfCorrectX (int position) {
-	String[] obst=obstacles.split("[ || ( || , || ) || ]");
 	if (position>0 && position<x) {
 		return true;
 	}
@@ -26,6 +25,13 @@ public boolean checkIfCorrectY (int position) {
 	}
 	return false;
 }
+
+/*public boolean checkIfHitObstacle (int position) {
+	String[] obst=obstacles.split("[ || ( || , || ) || ]");
+	for (int i=0; i<obst.length; i++) {
+		
+	}
+}*/
 	
 	
 	public String executeCommand(String command){

@@ -267,3 +267,11 @@ UnitTestSessionAction 1494616247287 TestPlanetExplorer.java OK
 UnitTestCaseAction 1494616247329 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494616247331 TestPlanetExplorer.java OK
 EditAction 1494616348008 PlanetExplorer.java 2158 4 11 0
+RefactoringAction 1494616376464 PlanetExplorer.java ADD check i FIELD
+RefactoringAction 1494616386477 PlanetExplorer.java RENAME i=>boolean checkIfHitObstacle() METHOD
+RefactoringAction 1494616389988 PlanetExplorer.java RENAME checkIfHitObstacle()=>boolean checkIfHitObstacle(int) METHOD
+CompilationAction 1494616467121 PlanetExplorer.java
+RefactoringAction 1494616472746 PlanetExplorer.java REMOVE executeCommand(String) METHOD
+RefactoringAction 1494616472748 PlanetExplorer.java REMOVE checkIfHitObstacle(int) METHOD
+RefactoringAction 1494616475268 PlanetExplorer.java ADD String executeCommand(String) METHOD
+CompilationAction 1494616476565 PlanetExplorer.java
