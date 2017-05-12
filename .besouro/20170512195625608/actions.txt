@@ -58,3 +58,11 @@ RefactoringAction 1494613492332 TestPlanetExplorer.java ADD void test_moving_bac
 RefactoringAction 1494613498843 TestPlanetExplorer.java RENAME test_moving_backwoard()/2=>void test_moving_right() METHOD
 EditAction 1494613508820 TestPlanetExplorer.java 926 4 4 4
 EditAction 1494613520212 PlanetExplorer.java 637 2 7 0
+UnitTestCaseAction 1494613531720 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613531722 TestPlanetExplorer.java OK
+RefactoringAction 1494613567951 TestPlanetExplorer.java ADD void test_moving_right()/2 METHOD
+RefactoringAction 1494613570964 TestPlanetExplorer.java RENAME test_moving_right()/2=>void test_moving_right_() METHOD
+RefactoringAction 1494613572980 TestPlanetExplorer.java RENAME test_moving_right_()=>void test_moving_right_whe() METHOD
+RefactoringAction 1494613573991 TestPlanetExplorer.java RENAME test_moving_right_whe()=>void test_moving_right_when_() METHOD
+RefactoringAction 1494613576004 TestPlanetExplorer.java RENAME test_moving_right_when_()=>void test_moving_right_when_north() METHOD
+EditAction 1494613576639 TestPlanetExplorer.java 1104 5 5 5
