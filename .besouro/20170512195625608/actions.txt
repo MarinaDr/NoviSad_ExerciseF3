@@ -31,3 +31,6 @@ RefactoringAction 1494612749479 TestPlanetExplorer.java RENAME test_Initialize=>
 EditAction 1494612884224 TestPlanetExplorer.java 402 1 2 1
 CompilationAction 1494612892405 TestPlanetExplorer.java
 EditAction 1494612910605 TestPlanetExplorer.java 406 1 2 1
+UnitTestCaseAction 1494612927408 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494612927411 TestPlanetExplorer.java OK
+EditAction 1494613100804 PlanetExplorer.java 488 2 5 0
