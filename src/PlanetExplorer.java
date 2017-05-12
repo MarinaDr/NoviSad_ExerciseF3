@@ -13,6 +13,19 @@ public class PlanetExplorer {
 		this.obstacles=obstacles;
 	}
 	
+public boolean checkIfCorrectX (int position) {
+	if (position>0 && position<x) {
+		return true;
+	}
+	return false;
+}
+public boolean checkIfCorrectY (int position) {
+	if (position>0 && position<y) {
+		return true;
+	}
+	return false;
+}
+	
 	
 	public String executeCommand(String command){
 		char[] commands=command.toCharArray();

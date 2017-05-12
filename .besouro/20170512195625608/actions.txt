@@ -195,3 +195,20 @@ RefactoringAction 1494615291041 TestPlanetExplorer.java RENAME test_moving_left_
 RefactoringAction 1494615294050 TestPlanetExplorer.java RENAME test_moving_left_when_ffr()=>void test_moving_left_when_ffrf() METHOD
 EditAction 1494615294873 TestPlanetExplorer.java 3046 12 24 12
 EditAction 1494615319045 TestPlanetExplorer.java 3048 12 24 12
+UnitTestCaseAction 1494615337910 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615337913 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615338485 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615338545 TestPlanetExplorer.java OK
+RefactoringAction 1494615377637 PlanetExplorer.java ADD boolean check FIELD
+RefactoringAction 1494615380150 PlanetExplorer.java RENAME check=>boolean checkIf FIELD
+RefactoringAction 1494615382661 PlanetExplorer.java RENAME checkIf=>boolean checkIfCor FIELD
+RefactoringAction 1494615384170 PlanetExplorer.java RENAME checkIfCor=>boolean checkIfCorrect FIELD
+RefactoringAction 1494615386683 PlanetExplorer.java RENAME checkIfCorrect=>boolean checkIfCorrect() METHOD
+RefactoringAction 1494615402703 PlanetExplorer.java RENAME checkIfCorrect()=>boolean checkIfCorrect(char) METHOD
+RefactoringAction 1494615415757 PlanetExplorer.java RENAME checkIfCorrect(char)=>boolean checkIfCorrect() METHOD
+RefactoringAction 1494615421769 PlanetExplorer.java RENAME checkIfCorrect()=>boolean checkIfCorrect(int) METHOD
+RefactoringAction 1494615486959 PlanetExplorer.java RENAME checkIfCorrect(int)=>boolean checkIfCorrectX(int) METHOD
+RefactoringAction 1494615508015 PlanetExplorer.java ADD boolean checkIfCorrectX(int)/2 METHOD
+RefactoringAction 1494615510527 PlanetExplorer.java RENAME checkIfCorrectX(int)/2=>boolean checkIfCorrect(int) METHOD
+RefactoringAction 1494615511537 PlanetExplorer.java RENAME checkIfCorrect(int)=>boolean checkIfCorrectY(int) METHOD
+EditAction 1494615517841 PlanetExplorer.java 1540 4 10 0
