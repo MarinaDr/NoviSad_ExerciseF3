@@ -20,8 +20,14 @@ public class PlanetExplorer {
 			if (facing=="N") {
 			y_Pos++;
 			}
-			else if (facing=="R") {
+			else if (facing=="E") {
 				x_Pos++;
+			}
+			else if (facing=="S") {
+				y_Pos--;
+			}
+			else {
+				x_Pos--;
 			}
 			
 		}
