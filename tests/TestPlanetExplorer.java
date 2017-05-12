@@ -63,19 +63,19 @@ public void test_moving_left_when_north() throws PlanetExplorerException {
 public void test_moving_left_when_east() throws PlanetExplorerException {
 	PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
 	
-	assertEquals("Incorrect position when moving forwoard", "(0,0,N)", plnt.executeCommand("rrl"));
+	assertEquals("Incorrect position when moving forwoard", "(0,0,N)", plnt.executeCommand("llll"));
 }
 	@Test
 public void test_moving_left_when_south() throws PlanetExplorerException {
 	PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
 	
-	assertEquals("Incorrect position when moving forwoard", "(0,0,E)", plnt.executeCommand("rrrl"));
+	assertEquals("Incorrect position when moving forwoard", "(0,0,E)", plnt.executeCommand("lll"));
 }
 	@Test
 public void test_moving_left_when_west() throws PlanetExplorerException {
 	PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
 	
-	assertEquals("Incorrect position when moving forwoard", "(0,0,S)", plnt.executeCommand("rrrrl"));
+	assertEquals("Incorrect position when moving forwoard", "(0,0,S)", plnt.executeCommand("ll"));
 }
 
 
