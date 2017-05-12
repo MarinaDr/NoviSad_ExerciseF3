@@ -52,3 +52,8 @@ EditAction 1494613348724 TestPlanetExplorer.java 758 3 3 3
 UnitTestCaseAction 1494613358432 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494613358434 TestPlanetExplorer.java OK
 EditAction 1494613389433 PlanetExplorer.java 568 2 6 0
+UnitTestCaseAction 1494613402194 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613402196 TestPlanetExplorer.java OK
+RefactoringAction 1494613492332 TestPlanetExplorer.java ADD void test_moving_backwoard()/2 METHOD
+RefactoringAction 1494613498843 TestPlanetExplorer.java RENAME test_moving_backwoard()/2=>void test_moving_right() METHOD
+EditAction 1494613508820 TestPlanetExplorer.java 926 4 4 4
