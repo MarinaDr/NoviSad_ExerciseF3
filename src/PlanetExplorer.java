@@ -48,7 +48,7 @@ public class PlanetExplorer {
 				x_Pos++;
 			}
 		}
-		if (command=="r") {
+		if (cmd=='r') {
 			if (facing=="N") {
 				facing="E";
 			}
@@ -62,7 +62,7 @@ public class PlanetExplorer {
 				facing="N";
 			}
 		}
-		if (command=="l") {
+		if (cmd=='l') {
 			if (facing=="N") {
 				facing="W";
 			}
