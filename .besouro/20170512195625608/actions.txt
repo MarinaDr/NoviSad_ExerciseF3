@@ -1,0 +1,24 @@
+FileOpenedAction 1494611786043 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494611801754 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494611804682 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612220925 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612220929 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494612225971 PlanetExplorer.java ADD int obstacles FIELD
+RefactoringAction 1494612235002 PlanetExplorer.java REMOVE obstacles FIELD
+RefactoringAction 1494612240533 PlanetExplorer.java ADD String obs FIELD
+RefactoringAction 1494612243548 PlanetExplorer.java REMOVE obs FIELD
+RefactoringAction 1494612250075 PlanetExplorer.java ADD String obsta FIELD
+RefactoringAction 1494612252092 PlanetExplorer.java RENAME obsta=>String obstacles FIELD
+RefactoringAction 1494612403480 PlanetExplorer.java ADD String initi FIELD
+RefactoringAction 1494612406994 PlanetExplorer.java RENAME initi=>String initialize FIELD
+RefactoringAction 1494612409004 PlanetExplorer.java RENAME initialize=>String initialize() METHOD
+RefactoringAction 1494612432578 PlanetExplorer.java REMOVE initialize() METHOD
+RefactoringAction 1494612496214 PlanetExplorer.java RENAME <initializer /1>=>void vihacle() METHOD
+RefactoringAction 1494612500728 PlanetExplorer.java RENAME vihacle()=><initializer /1> null
+RefactoringAction 1494612520782 PlanetExplorer.java ADD int x_ FIELD
+RefactoringAction 1494612522296 PlanetExplorer.java RENAME x_=>int x_Pos FIELD
+RefactoringAction 1494612529333 PlanetExplorer.java ADD int y/2 FIELD
+RefactoringAction 1494612531343 PlanetExplorer.java RENAME y/2=>int y_P FIELD
+RefactoringAction 1494612532354 PlanetExplorer.java RENAME y_P=>int y_Pos FIELD
+RefactoringAction 1494612562455 PlanetExplorer.java ADD String direction FIELD
+EditAction 1494612571550 PlanetExplorer.java 423 2 4 0
