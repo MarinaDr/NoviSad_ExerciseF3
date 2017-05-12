@@ -23,6 +23,11 @@ public class PlanetExplorer {
 		if (command=="b") {
 			y_Pos--;
 		}
+		if (command=="r") {
+			if (facing=="N") {
+				facing="E";
+			}
+		}
 		
 		return "("+x_Pos+","+y_Pos+","+facing+")";
 	}
