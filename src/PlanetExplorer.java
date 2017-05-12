@@ -36,6 +36,15 @@ public class PlanetExplorer {
 			if (facing=="N") {
 			y_Pos--;
 			}
+			else if (facing=="E") {
+				x_Pos--;
+			}
+			else if (facing=="S") {
+				y_Pos++;
+			}
+			else {
+				x_Pos++;
+			}
 		}
 		if (command=="r") {
 			if (facing=="N") {
