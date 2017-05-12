@@ -256,3 +256,14 @@ EditAction 1494616181462 TestPlanetExplorer.java 3883 15 30 15
 UnitTestCaseAction 1494616210559 TestPlanetExplorer.java FAIL
 UnitTestSessionAction 1494616210560 TestPlanetExplorer.java FAIL
 EditAction 1494616227902 TestPlanetExplorer.java 3882 15 30 15
+UnitTestCaseAction 1494616247239 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616247241 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616247244 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247242 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247247 TestPlanetExplorer.java OKUnitTestSessionAction 1494616247250 TestPlanetExplorer.java OK
+
+UnitTestCaseAction 1494616247284 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247287 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616247329 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247331 TestPlanetExplorer.java OK
+EditAction 1494616348008 PlanetExplorer.java 2158 4 11 0
