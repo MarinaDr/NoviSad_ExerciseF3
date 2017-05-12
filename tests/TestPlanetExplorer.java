@@ -21,7 +21,7 @@ public class TestPlanetExplorer {
 	public void test_moving_forwoard() throws PlanetExplorerException {
 		PlanetExplorer plnt=new PlanetExplorer(3, 3, "(2,2)");
 		
-		assertEquals("Incorrect position when moving forwoard", "(1,0,N)", plnt.executeCommand("f"));
+		assertEquals("Incorrect position when moving forwoard", "(0,1,N)", plnt.executeCommand("f"));
 	}
 	@Test
 	public void test_moving_backwoard() throws PlanetExplorerException {
