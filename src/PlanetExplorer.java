@@ -17,12 +17,19 @@ public class PlanetExplorer {
 	public String executeCommand(String command){
 		/*char[] commands=command.toCharArray();*/
 		if (command=="f") {
-			if (facing=="N")
+			if (facing=="N") {
 			y_Pos++;
+			}
+			else if (facing=="R") {
+				x_Pos++;
+			}
+			
 		}
 		
 		if (command=="b") {
+			if (facing=="N") {
 			y_Pos--;
+			}
 		}
 		if (command=="r") {
 			if (facing=="N") {
